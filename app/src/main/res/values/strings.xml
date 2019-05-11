@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Harshad Raut</string>
+    <string name="yello_star">Yello Star</string>
+    <string name="bio">hiii
+    \n My name is harshad raut.I did my diploma from Government polytechnic nagpur.I completed bachlor of engineering from
+     \n   g h raisoni institute of engineering and technology.Swimming and watching wwe is my favourite sport. Roman reigns
+       \n and brock lesnar are my favourite wwe players.I take inspiration from many great players like cristiano ronaldo,
+        \nlionel messi,jasprit bumrah,hardik pandya, floyed money maywheather and conor mcgregor,peter dinklage,etc
+    </string>
+    <string name="what_is_ur_nickname">what is ur nickname?</string>
+    <string name="done">Done</string>
+</resources>
